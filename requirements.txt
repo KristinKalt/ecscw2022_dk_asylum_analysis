@@ -1,0 +1,14 @@
+numpy
+pandas
+jupyter
+sklearn
+matplotlib
+holoviews
+bokeh
+scipy
+ipykernel
+hvplot
+bs4
+seaborn
+dash
+colorlover
