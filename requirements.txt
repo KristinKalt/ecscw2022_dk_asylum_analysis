@@ -7,3 +7,4 @@ ipykernel
 bs4
 pandas
 selenium
+numpy
